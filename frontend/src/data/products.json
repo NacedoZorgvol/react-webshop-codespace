@@ -1,0 +1,8 @@
+[
+  {"id":1,"name":"Classic Sneakers","price":69.99,"description":"Comfortable everyday sneakers","image":"https://via.placeholder.com/400x300?text=Sneakers"},
+  {"id":2,"name":"Casual T-Shirt","price":19.99,"description":"Soft cotton t-shirt","image":"https://via.placeholder.com/400x300?text=T-Shirt"},
+  {"id":3,"name":"Denim Jacket","price":89.99,"description":"Stylish denim jacket","image":"https://via.placeholder.com/400x300?text=Jacket"},
+  {"id":4,"name":"Running Shorts","price":29.99,"description":"Lightweight running shorts","image":"https://via.placeholder.com/400x300?text=Shorts"},
+  {"id":5,"name":"Backpack","price":49.99,"description":"Durable daily backpack","image":"https://via.placeholder.com/400x300?text=Backpack"},
+  {"id":6,"name":"Sunglasses","price":24.99,"description":"Polarized sunglasses","image":"https://via.placeholder.com/400x300?text=Sunglasses"}
+]
