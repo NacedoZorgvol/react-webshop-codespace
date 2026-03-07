@@ -5,6 +5,7 @@ import Product from './pages/Product';
 import Cart from './pages/Cart';
 import Checkout from './pages/Checkout';
 import Header from './components/Header';
+import Footer from './components/Footer';
 
 export default function App() {
   return (
@@ -18,6 +19,7 @@ export default function App() {
           <Route path="/checkout" element={<Checkout />} />
         </Routes>
       </main>
+      <Footer />
     </div>
   );
 }
