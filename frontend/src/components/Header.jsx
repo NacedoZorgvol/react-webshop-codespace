@@ -8,7 +8,7 @@ export default function Header() {
 
   return (
     <header className="header">
-      <div className="logo"><Link to="/">React Webshop</Link></div>
+      <div className="logo"><Link to="/">Ukkie kinderkleding</Link></div>
       <nav>
         <Link to="/">Home</Link> {' | '}
         <Link to="/cart">Cart ({totalQty})</Link>
