@@ -7,7 +7,7 @@ module.exports = {
   extends: [
     'react-app',
     'react-app/jest',
-    'plugin:security/recommended',
+    'plugin:security/recommended-legacy',
     'prettier',
   ],
   plugins: ['security'],
